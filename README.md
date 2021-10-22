@@ -87,4 +87,4 @@ To complete this part of the assignment,I needed to do the following:
 
 ![hotel_map.png](https://github.com/NazihZaz/python-api-challenge/blob/main/Images/hotel_map.png)
 
-[Homework Assignment details](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-virt-atl-data-pt-09-2021-u-c/-/tree/master/02-Homework/06-Python-APIs/Instructions#part-i-weatherpy)
+Assignment background and instructions sources: [Homework Assignment details](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-virt-atl-data-pt-09-2021-u-c/-/tree/master/02-Homework/06-Python-APIs/Instructions#part-i-weatherpy)
