@@ -1,14 +1,18 @@
 # python-api-challenge
 
 This repository contains my solution of thePython API Homework - What's the Weather Like? which was processed in 2 parts using jupyter notebook:
-[Part I- WeatherPy](https://github.com/NazihZaz/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb)
-[Part II - VacationPy](https://github.com/NazihZaz/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb)
+
+> [Part I- WeatherPy](https://github.com/NazihZaz/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb)
+
+> [Part II - VacationPy](https://github.com/NazihZaz/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb)
 
 ## The three observable trends  that can be made from the this analysis are:
 
 1. The closer the city is from the equator the higher the temperature is and per consequence the farther the city is from the equator the lower the temperature is. This is mainly because of the angle of influence of solar rays and the round form of the earth.
 2. The city latitude impact mostly the temperature and not much of the other parameters we have analyzed such as cloudiness, humidity or wind speed. Other factors may have influence and some of the parameters we analyzed like "Season vs. Wind Speed" as usually spring tends to be the windiest season of the year, but further analysis needs to be conducted to confirm this theory.
 3. There is no visible association between latitude and humidity, however, looking at the heatmap from Part II - VacationPy, we can notice that humidty level tends to be higher in coastal cities. Further analysis needs to be conducted to confirm this theory.
+
+- ### Note: It is important to note that the API calls were performed on 10/21/2021.
 
 # Outputs generated:
 
